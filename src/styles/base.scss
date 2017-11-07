@@ -1,0 +1,16 @@
+// The font path is relative from your compiled css directory
+// $fa-font-path: "~font-awesome/fonts/";
+// @import "~font-awesome/scss/font-awesome.scss";
+
+// @font-face {
+//   font-family: walkway;
+//   src: url('./fonts/Walkway/Walkway_UltraBold.ttf') format('truetype');
+// }
+
+body {
+  margin: 0;
+}
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+}
